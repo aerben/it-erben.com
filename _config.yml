@@ -3,3 +3,5 @@ title: Alexander Erben - IT Consulting
 description: Project website of Alexander Erben
 logo: ./logo.jpeg
 show_downloads: false
+github:
+  is_project_page: false
