@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 title: Alexander Erben - IT Consulting
 description: Project website of Alexander Erben
-logo: ./logo.jpeg
+logo: ./logo.png
 show_downloads: false
 github:
   is_project_page: false
