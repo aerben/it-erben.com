@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Project website of Alexander Erben
 
-You can use the [editor on GitHub](https://github.com/aerben/it-erben.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome, I'm glad that you found my website!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I'm Alexander, a Cloud Engineer and Software Developer from Cologne, Germany. I focus on designing, building and maintaining cloud infrastructures, mainly with Amazon Web Services but also on Google Cloud Platform. My skillset also includes backend development with node.js and Java with many years of experience.
 
-### Markdown
+I'd be happy to hear from you! Do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/alexander-e-25464713a/).
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Best
+Alex
 
-```markdown
-Syntax highlighted code block
+## About me
 
-# Header 1
-## Header 2
-### Header 3
+Born and raised where the rivers Rhine and Mosel meet, I've since then moved to the Cologne area where I studied Geography (B.Sc.) in Bonn and later Computer Science in Hagen. For the first half of my career, I developed backend systems with Java in many different domains, ranging from Geographic Information Systems over photo product e-commerce systems to real estate business CRM.
+More recently, I shifted my focus to cloud architecture and operations, building platforms on AWS and GCP with a focus on automation and event-based architectures. 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aerben/it-erben.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For a short bio, see my [LinkedIn profile](https://www.linkedin.com/in/alexander-e-25464713a/). 
