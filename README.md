@@ -11,7 +11,9 @@ Alex
 
 ## About me
 
-Born and raised where the rivers Rhine and Mosel meet, I've since then moved to the Cologne area where I studied Geography (B.Sc.) in Bonn and later Computer Science in Hagen. For the first half of my career, I developed backend systems with Java in many different domains, ranging from Geographic Information Systems over photo product e-commerce systems to real estate business CRM.  
+Born and raised where the rivers Rhine and Mosel meet, I've since then moved to the Cologne area where I studied Geography (B.Sc.) in Bonn and later Computer Science in Hagen (M.Sc.). For the first half of my career, I developed backend systems with Java in many different domains, ranging from Geographic Information Systems over photo product e-commerce systems to real estate business CRM.  
 More recently, I shifted my focus to cloud architecture and operations, building platforms on AWS and GCP with a focus on automation and event-based architectures. 
 
 For a short bio, see my [LinkedIn profile](https://www.linkedin.com/in/alexander-e-25464713a/). 
+
+[Imprint](./imprint.html)
