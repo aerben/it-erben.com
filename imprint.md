@@ -2,12 +2,12 @@
 
 Imprint according to § 5 TMG (german law):
 
-Alexander Erben
-Viktoriastr. 2
-53721 Siegburg
+Alexander Erben<br>
+Viktoriastr. 2<br>
+53721 Siegburg<br>
 
-E-Mail: a.erben.bn@gmail.com
-Phone: ‭+49 151 68121444‬
+E-Mail: a.erben.bn@gmail.com<br>
+Phone: ‭+49 151 68121444‬<br>
 
 ## Datenschutz
 
