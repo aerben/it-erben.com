@@ -1,4 +1,4 @@
-# Project website of Alexander Erben
+# Website of Alexander Erben
 
 Welcome to my website!
 
